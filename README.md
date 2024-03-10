@@ -12,7 +12,7 @@ Go to [Moodle](https://moodle.uni-greifswald.de/course/view.php?id=5405) for
  3. Open a terminal (click ```+``` below ```File```, then ```Terminal```)
  4. Download the class material: Copy and paste this command into a terminal
 ```
-git clone https://github.com/mslehre/KI-Block.git
+git clone https://github.com/DataCompetency/KI-Block.git
 ```
  
 ## Course Overview
