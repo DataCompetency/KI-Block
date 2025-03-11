@@ -103,13 +103,11 @@ cat	16.png
 cat	170.png
 cat	171.png
 cat	172.png
-cat	173.png
 cat	174.png
 cat	175.png
 cat	176.png
 cat	177.png
 cat	178.png
-cat	179.png
 cat	17.png
 cat	180.png
 cat	181.png
@@ -240,7 +238,6 @@ cat	294.png
 cat	295.png
 cat	296.png
 cat	297.png
-cat	298.png
 cat	299.png
 cat	29.png
 cat	2.png
@@ -248,7 +245,6 @@ cat	300.png
 cat	301.png
 cat	302.png
 cat	303.png
-cat	304.png
 cat	305.png
 cat	306.png
 cat	307.png
@@ -291,7 +287,6 @@ cat	33.png
 cat	340.png
 cat	341.png
 cat	342.png
-cat	343.png
 cat	344.png
 cat	345.png
 cat	346.png
@@ -474,7 +469,6 @@ cat	504.png
 cat	505.png
 cat	506.png
 cat	507.png
-cat	508.png
 cat	509.png
 cat	50.png
 cat	510.png
@@ -863,7 +857,6 @@ cat	857.png
 cat	858.png
 cat	859.png
 cat	85.png
-cat	860.png
 cat	861.png
 cat	862.png
 cat	863.png
@@ -890,7 +883,6 @@ cat	881.png
 cat	882.png
 cat	883.png
 cat	884.png
-cat	885.png
 cat	886.png
 cat	887.png
 cat	888.png
@@ -959,7 +951,6 @@ cat	943.png
 cat	944.png
 cat	945.png
 cat	946.png
-cat	947.png
 cat	948.png
 cat	949.png
 cat	94.png
@@ -1307,7 +1298,6 @@ shepherd	338.png
 shepherd	339.png
 shepherd	33.png
 shepherd	340.png
-shepherd	341.png
 shepherd	342.png
 shepherd	343.png
 shepherd	344.png
@@ -1353,7 +1343,6 @@ shepherd	37.png
 shepherd	380.png
 shepherd	381.png
 shepherd	382.png
-shepherd	383.png
 shepherd	384.png
 shepherd	385.png
 shepherd	386.png
@@ -1746,7 +1735,6 @@ shepherd	739.png
 shepherd	73.png
 shepherd	740.png
 shepherd	741.png
-shepherd	742.png
 shepherd	743.png
 shepherd	744.png
 shepherd	745.png
@@ -2017,7 +2005,6 @@ shepherd	983.png
 shepherd	984.png
 shepherd	985.png
 shepherd	986.png
-shepherd	987.png
 shepherd	988.png
 shepherd	989.png
 shepherd	98.png
@@ -2169,7 +2156,6 @@ wolf	221.png
 wolf	222.png
 wolf	223.png
 wolf	224.png
-wolf	225.png
 wolf	226.png
 wolf	227.png
 wolf	228.png
