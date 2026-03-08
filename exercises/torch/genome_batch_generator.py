@@ -1,3 +1,11 @@
+import sys
+import numpy.core
+# Compatibility shim: .npz files saved with NumPy >= 2.0 reference numpy._core,
+# which does not exist in NumPy 1.x. Map it to numpy.core instead.
+if "numpy._core" not in sys.modules:
+    sys.modules["numpy._core"] = numpy.core
+    sys.modules["numpy._core.multiarray"] = numpy.core.multiarray
+
 from pathlib import Path
 from typing import List, Tuple
 import numpy as np
