@@ -57,8 +57,8 @@ In this course you will get practical knowledge to perform general machine learn
 <img src="figs/intro-fool-ex.png" width="600"/>
 
 
-### Fooling a CNN - Make it 'Think' a Plant is a Cat
+### Sequence and Foundation Models for DNA
 
-<img src="figs/intro-fool.png" width="600"/>
+<img src="figs/dna-onehot.png" width="600"/>
 
 
