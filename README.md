@@ -12,7 +12,7 @@ Go to [Moodle](https://moodle.uni-greifswald.de/course/view.php?id=5405) for
 2. Login at [apphub.wolke.uni-greifswald.de](https://apphub.wolke.uni-greifswald.de/), choose **Computing -> Deep Learning -> Select -> Frontend Code -> Select**, set the time to approximately **8 hours**, then click **Start**.
 3. Once the session is booted, click the **Open** button.
 4. In VSCode, open a terminal (`` Ctrl+` ``) and run: `git clone https://github.com/DataCompetency/KI-Block.git`
-5. Install required packages in the same terminal:
+5. Install required packages in the same terminal (if you already opened a notebook, restart its kernel afterwards):
 
    ```bash
    /opt/conda/envs/d2l/bin/pip install pandas torchsummary "opencv-python-headless==4.8.0.76" "numpy==1.23.5"
