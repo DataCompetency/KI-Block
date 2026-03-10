@@ -56,9 +56,6 @@ In this course you will get practical knowledge to perform general machine learn
 <img src="exercises/exciting-patches.png" width="500"/>
 <img src="figs/intro-fool-ex.png" width="600"/>
 
-
 ### Sequence and Foundation Models for DNA
 
 <img src="figs/dna-onehot.png" width="600"/>
-
-
