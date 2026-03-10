@@ -15,7 +15,7 @@ Go to [Moodle](https://moodle.uni-greifswald.de/course/view.php?id=5405) for
 5. Install required packages in the same terminal (if you already opened a notebook, restart its kernel afterwards):
 
    ```bash
-   /opt/conda/envs/d2l/bin/pip install pandas torchsummary "opencv-python-headless==4.8.0.76" "numpy==1.23.5"
+   /opt/conda/envs/d2l/bin/pip install pandas torchsummary scikit-learn "opencv-python-headless==4.8.0.76" "numpy==1.23.5"
    ```
 
 6. `cd` into the cloned folder, then open it in VSCode via **File -> Open Folder**.
